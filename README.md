@@ -1,6 +1,6 @@
 # helloMVC
 * MVC 구조를 이용한 Dynamic Web Application
-## 실행 결과
+#### 실행 결과
 * Home Page
 <img width="650" alt="MVC1" src="https://user-images.githubusercontent.com/38847677/112615387-c4d3fb80-8e65-11eb-8e0b-1b61694860d6.png">
 
